@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易玩辭困學記
-#+DATE: 2015-09-23 09:35:18
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:58:24.230789
+#+PROPERTY: ID KR1a0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0114_WYG_004-1a>¶
 欽定四庫全書¶
 　周易玩辭困學記卷四¶
@@ -722,4 +724,3 @@
 　曰聰明睿知守之以愚功被天下守之以遜勇力葢¶
 　世守之以怯富有四海守之以謙¶
 　周易玩辭困學記卷四¶
-

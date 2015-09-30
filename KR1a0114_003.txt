@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易玩辭困學記
-#+DATE: 2015-09-23 09:35:18
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:58:24.206427
+#+PROPERTY: ID KR1a0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0114_WYG_003-1a>¶
 欽定四庫全書¶
 　周易玩辭困學記卷三¶
@@ -848,4 +850,3 @@
 　之興成之難而敗之易天下之治致之難而亂之易¶
 　此序易者之深意亦天地自然之理也¶
 　周易玩辭困學記卷三¶
-
